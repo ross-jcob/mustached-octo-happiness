@@ -40,11 +40,3 @@ String approximation etc. (word order, general typos ..)
 [option]: Save result as local SQLite file.
 Save result to specified SQL database.
 
-About license
-=============
-
-At the moment under no license.
-You can read about what that means here: 
-http://stackoverflow.com/questions/4007674/whats-the-default-license-of-code-published-at-github
-
-I will change the license at later stages of the project to be more open-source friendly.
