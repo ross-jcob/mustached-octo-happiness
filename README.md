@@ -46,4 +46,5 @@ About license
 At the moment under no license.
 You can read about what that means here: 
 http://stackoverflow.com/questions/4007674/whats-the-default-license-of-code-published-at-github
-  - i will change the license at later stages of the project
+
+I will change the license at later stages of the project to be more open-source friendly.
